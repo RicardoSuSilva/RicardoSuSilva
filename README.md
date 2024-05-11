@@ -1,4 +1,5 @@
 Welcome 👋
+
 My name is Ricardo Su Silva, i'm Industrial Engineer
 with specialization in Production Management and Quality Assurance
 in production processes in management positions in companies
@@ -8,7 +9,7 @@ I am studying to be a Full Stack Developer
 
 I have knowledge in the following technologies:
 
-![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/2dfd2865-9544-492c-b3eb-20a5d9ccf37c)
+![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/d4d923da-259e-4eb1-9701-7ee51d17b024)
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/eca3131b-cf4a-4799-a059-c00089d004ca)
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/f0ae4662-a9c7-46f4-9407-ec95e9554ba3)
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/1d42c93f-220b-453e-b897-0e7c74a91e28)
