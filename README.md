@@ -20,6 +20,9 @@ I have knowledge in the following technologies:
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/3de1efa6-0362-44a8-a32c-2534761b6402)
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/b141d817-5ae8-4e91-80e8-a1e1e083ae30)
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/9f466498-7876-4c3c-aae7-e18c886c5a0c)
+![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/dd88e1ed-298e-4057-9040-cded037f27b2)
+
+
 
 You can follow me:
 
