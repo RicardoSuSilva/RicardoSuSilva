@@ -16,7 +16,9 @@ I have knowledge in the following technologies:
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/b141d817-5ae8-4e91-80e8-a1e1e083ae30)
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/9f466498-7876-4c3c-aae7-e18c886c5a0c)
 
+You can follow me:
 
+www.linkedin.com/in/ricardosusilva)
 
 
 
