@@ -1,5 +1,4 @@
-Welcome 👋,
-
+Welcome 👋
 My name is Ricardo Su Silva, i'm Industrial Engineer
 with specialization in Production Management and Quality Assurance
 in production processes in management positions in companies
@@ -8,7 +7,6 @@ in Peru and Argentina.
 I am studying to be a Full Stack Developer 
 
 I have knowledge in the following technologies:
-
 
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/eca3131b-cf4a-4799-a059-c00089d004ca)
 ![image](https://github.com/RicardoSuSilva/RicardoSuSilva/assets/140461991/f0ae4662-a9c7-46f4-9407-ec95e9554ba3)
@@ -25,7 +23,7 @@ I have knowledge in the following technologies:
 
 
 
-JavaScript Nodejs Sass PostgreSQL MongoDB Express Firebase 
+
 
 
 <!---
