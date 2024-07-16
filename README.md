@@ -27,6 +27,7 @@ I have knowledge in the following technologies:
 You can follow me:
 
 www.linkedin.com/in/ricardosusilva
+www.suconsultores.netlify.app/
 
 
 
